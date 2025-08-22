@@ -12,8 +12,9 @@ python subtitle_inpainting.py
 ```
 
 # Presentation of Effects
-https://github.com/user-attachments/assets/feb497e8-5761-4354-9f54-2c230e4fd08d
-https://github.com/user-attachments/assets/83ada908-941f-4866-941e-b653806f5752
+![Sample Video](https://github.com/user-attachments/assets/8979887a-25b4-43dc-87f2-be95485352b9)
+
+
 
 
 
