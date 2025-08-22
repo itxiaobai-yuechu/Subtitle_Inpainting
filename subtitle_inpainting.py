@@ -45,6 +45,7 @@ if __name__ == "__main__":
     video_path = "inputs/case1/case1.mp4"  # 测试文件
     output_dir = "outputs/case1"
 
+    os.makedirs(os.path.join(output_dir, "frames"), exist_ok=True)
     extract_frames(video_path, os.path.join(output_dir, "frames"))
 
     # step2 获取视频中的目标框
@@ -64,7 +65,8 @@ if __name__ == "__main__":
     frame_count = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     fps = int(cap.get(cv2.CAP_PROP_FPS))
     cap.release()
-
+    
+    os.makedirs(os.path.join(output_dir, "frames_mask"), exist_ok=True)
     create_mask(width, height, x1_list, y1_list, x2_list, y2_list, frame_count, os.path.join(output_dir, "frames_mask"))
 
     # step4 inpainting阶段
