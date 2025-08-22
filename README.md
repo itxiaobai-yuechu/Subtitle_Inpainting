@@ -11,5 +11,12 @@ pip install -r requirements.txt
 python subtitle_inpainting.py
 ```
 
+# Presentation of Effects
+https://github.com/user-attachments/assets/feb497e8-5761-4354-9f54-2c230e4fd08d
+https://github.com/user-attachments/assets/83ada908-941f-4866-941e-b653806f5752
+
+
+
+
 # Acknowledgement
 This code is based on [ProPainter](https://github.com/sczhou/ProPainter) and [Ultralytics](https://github.com/ultralytics/ultralytics).
