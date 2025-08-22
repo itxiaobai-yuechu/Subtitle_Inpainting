@@ -1,0 +1,24 @@
+# License Notice
+
+This project uses code from the following open-source projects:
+
+1. **Ultralytics YOLOv8**  
+   License: [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.html)  
+   Copyright (C) 2007 Free Software Foundation, Inc.  
+   - You may use, modify, and redistribute Ultralytics code under the terms of AGPLv3.  
+   - If you deploy a modified version of the software to users over a network, you must make your source code available under the same license.  
+
+2. **ProPainter**  
+   License: [S-Lab License 1.0](https://github.com/ckkelvinchan/ProPainter/blob/main/LICENSE)  
+   Copyright 2023 S-Lab  
+   - Redistribution and use for **non-commercial purposes** in source and binary forms, with or without modification, are permitted provided that the conditions in the S-Lab License are met.  
+   - For commercial use, please contact the original authors.
+
+---
+
+## Important Notes
+
+- Your use of this repository is subject to the combination of both licenses above.  
+- Any code you write yourself can be licensed separately, but derivative works that include Ultralytics code must comply with AGPLv3, and derivative works that include ProPainter code must comply with S-Lab License 1.0.  
+- You must retain the copyright notices and license statements of the original projects in your redistribution.  
+
