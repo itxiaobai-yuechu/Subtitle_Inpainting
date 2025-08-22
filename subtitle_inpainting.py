@@ -76,8 +76,9 @@ if __name__ == "__main__":
         "propainter/inference_propainter.py",
         "--video", video_path,
         "--mask", os.path.join(output_dir, "frames_mask"),
-        "--subvideo_length", "80",
+        "--subvideo_length", "30",
         "--save_fps", str(fps),
+        "--fp16",
         "--save_root", os.path.join(output_dir, "result_video")
     ] # --fp16会减少显存占用，但是也会影响精度
     subprocess.run(cmd, check=True)
