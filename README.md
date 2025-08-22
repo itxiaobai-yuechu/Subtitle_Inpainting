@@ -1,4 +1,7 @@
-# Subtitle_Inpainting
+<div align="center">
+  <img src="https://github.com/itxiaobai-yuechu/Subtitle_Inpainting/blob/main/assets/Logo.png" style="width: 200px; height: auto">
+  <h1>Subtitle Inpainting</h1>
+</div>
 A tool for video subtitle inpainting.
 
 # Quick start
