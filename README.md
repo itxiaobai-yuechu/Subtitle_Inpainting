@@ -5,6 +5,7 @@
 </div>
 
 # Quick start
+If you need to use our tool, you can enter the following command in the terminal:
 ```bash
 git clone https://github.com/itxiaobai-yuechu/Subtitle_Inpainting.git
 cd Subtitle_Inpainting
