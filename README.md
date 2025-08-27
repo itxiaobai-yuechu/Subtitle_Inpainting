@@ -21,3 +21,4 @@ python subtitle_inpainting.py
 
 # Acknowledgement
 This code is based on [ProPainter](https://github.com/sczhou/ProPainter) and [Ultralytics](https://github.com/ultralytics/ultralytics).
+If you can make some good improvements based on our code or in terms of ideas, **we welcome you** to provide your ideas to make our tool more perfect.
